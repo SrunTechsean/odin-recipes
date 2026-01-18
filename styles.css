@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.hero {
+    background-color: rgb(246, 220, 224);
+    padding: 20px;
+}
+
+h1 {
+    width: 200px;
+    margin: 0 auto 10px;
+}
+
+ul {
+    width: 200px;
+    margin: 0 auto;
+}
